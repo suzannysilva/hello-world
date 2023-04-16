@@ -1,8 +1,8 @@
 # hello-world
 ### Olá! Eu sou a Suzanny Silva
-👩‍💻 Academica do curso de ADS.
-🔮 Programação Web.
-🎲 Banco de dados.
+#👩‍💻 Academica do curso de ADS.
+#🔮 Programação Web.
+#🎲 Banco de dados.
 
 " Estou aprendendo um pouquinho de cada, mas tenho como preferência banco de dados e front end💟 "
 
@@ -17,7 +17,8 @@
   <img align="center" alt="Su-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Su-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Su-css" height="30" width="40" src= "https://cdn.worldvectorlogo.com/logos/css-3.svg">
-  <img align="center" alt="Su-html" height="30" width="40" src= "https://cdn.worldvectorlogo.com/logos/html-1.svg ">
+  <img align="center" alt="Su-html" height="30" width="40" src= "![image](https://user-images.githubusercontent.com/96789124/232331790-4d3a64e2-4d87-4b14-96af-bfee4914ee29.png)
+">
 
 </div>
   
