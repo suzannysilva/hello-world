@@ -1,8 +1,10 @@
 # hello-world
 ### Olá! Eu sou a Suzanny Silva
-#👩‍💻 Academica do curso de ADS.
-#🔮 Programação Web.
-#🎲 Banco de dados.
+👩‍💻 Acadêmica do curso de ADS.
+
+🔮 Programação Web.
+
+🎲 Banco de dados.
 
 " Estou aprendendo um pouquinho de cada, mas tenho como preferência banco de dados e front end💟 "
 
